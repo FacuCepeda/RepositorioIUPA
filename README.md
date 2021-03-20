@@ -3,6 +3,7 @@ LEEME!
 
 El archivo README
 ------------------
+Para *Clonar* un repositorio desde GitHub debemos seleccionar la opcion que se encuntra en con un marco **verde**, luego de apretar ahi debemos ver las opciones que nos da que son 3 (html, ssh, GitHub CLI).
 
 El archivo `README.md` suele estar en la carpeta raíz de todo proyecto y contiene documentación acerca del proyecto en sí. Esto puede incluir guias de instalación y puesta en marcha del mismo, o pasos previos como instalación de otras herramientas y cualquier otra documentación general que sea relevante.
 
